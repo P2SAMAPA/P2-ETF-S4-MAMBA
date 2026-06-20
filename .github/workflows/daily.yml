@@ -2,7 +2,7 @@ name: Daily S4/Mamba Engine Run
 
 on:
   schedule:
-    - cron: "30 23 * * 1-5"   # 23:30 UTC Mon-Fri
+    - cron: "30 01 * * 1-6"   # 23:30 UTC Mon-Fri
   workflow_dispatch:
 
 jobs:
