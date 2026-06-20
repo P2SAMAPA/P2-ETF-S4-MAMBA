@@ -1,0 +1,5 @@
+numpy
+pandas
+huggingface_hub
+pyarrow
+streamlit
